@@ -1,0 +1,2 @@
+# searchmanga
+gets seatrc 
